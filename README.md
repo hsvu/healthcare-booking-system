@@ -22,6 +22,6 @@ The software will run on http://127.0.0.1:5000/
 Test provider usernames and passwords are found in "provider.csv" and test patient usernames and passwords are found in "patient.csv".
 
 ---
-This software was created by a student group of 4 in UNSW as part of the COMP1531 (Software Fundamentals) course.
+This software was created by a student group of 4 at UNSW as part of the COMP1531 (Software Fundamentals) course.
 
 Date started and finished: August 2018 - October 2018
